@@ -1,4 +1,5 @@
 import BgGradiant from "@/components/common/BgGradiant";
+import DemoSection from "@/components/home/demoSection";
 import { HeroSection } from "@/components/home/heroSection";
 
 export default function Home() {
@@ -8,6 +9,7 @@ export default function Home() {
         <BgGradiant />
       <div className="flex flex-col">
         <HeroSection />
+        <DemoSection/>
       </div>
 
       </div>
