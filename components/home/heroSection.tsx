@@ -17,7 +17,7 @@ export function HeroSection() {
           </Badge>
         </div>
       </div>
-      <h1 className="font-bold py-6 text-center text-4xl sm:text-5xl lg:text-6xl  leading-tight text-gray-900">
+      <h1 className="font-bold py-6 text-center text-4xl sm:text-5xl lg:text-6xl  leading-tight text-gray-900 selection:text-rose-400">
         Transform Your PDFs into Flashcards
       </h1>
       <h2 className="text-center text-lg sm:text-xl lg:text-2xl px-4 lg:px-0 lg:max-w-4xl text-gray-600">
